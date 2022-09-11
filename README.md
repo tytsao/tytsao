@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+[![tytsao's GitHub stats](https://github-readme-stats.vercel.app/api?username=tytsao&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tytsao/tytsao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
